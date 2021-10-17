@@ -1,0 +1,29 @@
+{
+    "name": "app01-intro",
+    "version": "1.0.0",
+    "description": "Aplicacion de escritorio multiplataforma en electron",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/luis-cabral/Electron-Curso.git"
+    },
+    "keywords": [
+        "Electron",
+        "Escritorio",
+        "Multiplataforma",
+        "Node.js",
+        "Chromium"
+    ],
+    "author": "Luis Cabral",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/luis-cabral/Electron-Curso/issues"
+    },
+    "homepage": "https://github.com/luis-cabral/Electron-Curso#readme",
+    "devDependencies": {
+        "electron": "^15.2.0"
+    }
+}

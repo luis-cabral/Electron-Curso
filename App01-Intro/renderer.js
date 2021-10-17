@@ -1,0 +1,1 @@
+// Aquí escribiremos el código necesario para confihurar la ventana (vista)
